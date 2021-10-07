@@ -1,4 +1,6 @@
-
+body {
+    background-color: black;
+}
 
 .container {
     background-image: url(../assets/churrasco.jpg);
